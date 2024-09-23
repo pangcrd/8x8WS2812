@@ -48,6 +48,8 @@ void setEffect(int effect){
     //   ws2812fx.setMode(FX_MODE_TWINKLE_FADE);
     //   ws2812fx.setColor(0xfb2278);          
     //   break;
+
+
   }
 }
 // Use this code if your have trouble with 1st LED (Show only 1 color and did not change color with efect)
